@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/Assets/Font/NotoSansJP-Medium SDF.asset
+#Assets/Font/NotoSansJP-Medium SDF.asset.meta
+/Assets/SpeechSDK/Plugins/iOS/libMicrosoft.CognitiveServices.Speech.core.a
